@@ -5,6 +5,7 @@
 ## 开发阶段
 
 * [代码管理](kai-fa-jie-duan/dai-ma-guan-li.md)
+* [开发服务器管理](kai-fa-jie-duan/kai-fa-fu-wu-qi-guan-li.md)
 * [编辑器环境](kai-fa-jie-duan/bian-ji-qi-huan-jing.md)
 * [统一脚手架](kai-fa-jie-duan/tong-yi-jiao-shou-jia.md)
 * [统一技术栈](kai-fa-jie-duan/tong-yi-ji-shu-zhan.md)
