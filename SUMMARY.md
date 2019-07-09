@@ -11,6 +11,10 @@
 * [代码规范](kai-fa-jie-duan/dai-ma-gui-fan.md)
 * [监控上报](kai-fa-jie-duan/jian-kong-shang-bao.md)
 
+## 测试阶段
+
+* [提测流程](ce-shi-jie-duan/ti-ce-liu-cheng.md)
+
 ## 部署阶段
 
 * [版本管理](bu-shu-jie-duan/ban-ben-guan-li.md)
