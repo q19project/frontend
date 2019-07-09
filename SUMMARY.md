@@ -5,9 +5,9 @@
 ## 开发阶段
 
 * [代码管理](kai-fa-jie-duan/untitled-1.md)
-* [编辑器环境](kai-fa-jie-duan/bian-ji-huan-jing.md)
 * [统一脚手架](kai-fa-jie-duan/tong-yi-jiao-shou-jia.md)
 * [统一技术栈](kai-fa-jie-duan/tong-yi-ji-shu-zhan.md)
+* [编辑器环境](kai-fa-jie-duan/bian-ji-huan-jing.md)
 
 ## 部署阶段
 
