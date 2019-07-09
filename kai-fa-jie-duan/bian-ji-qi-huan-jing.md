@@ -23,5 +23,16 @@ Host 云主机名称
 
 > 如果服务器上git版本过低\(低于2.0\)，可以手动下载git源码包\(tar.gz格式\)进行编译安装。
 
+## 3. 服务器配置
 
+```text
+vim ~/.wgetrc
+```
+
+内容如下：
+
+```text
+use_proxy=yes
+no_proxy=127.0.0.1,.local
+```
 
