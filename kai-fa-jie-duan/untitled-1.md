@@ -1,23 +1,6 @@
 # 代码管理
 
-## Getting Super Powers
+## 创建代码仓库
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
+在公有仓库或私有仓库创建git项目，本地准备好git客户端程序
 
