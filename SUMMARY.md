@@ -29,4 +29,5 @@
 ## 其他知识
 
 * [容器化](qi-ta-zhi-shi/rong-qi-hua.md)
+* [数据库-MySQL](qi-ta-zhi-shi/shu-ju-ku-mysql.md)
 
